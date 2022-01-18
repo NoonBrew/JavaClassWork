@@ -1,0 +1,6 @@
+Hello
+Write more data here
+Goodbye
+Other data!
+Hello programmers!
+End of file!

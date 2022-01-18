@@ -1,0 +1,3 @@
+The class code is: 2454
+The average enrollment is: 22.15
+The name of the class is: Java'
